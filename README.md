@@ -20,14 +20,14 @@ Make sure you have **ffmpeg** installed. You can install it via the following co
 
 To convert a single file to OPUS, run the following command:
 ```bash
-    ./Opusly.sh <input_file> <output_directory>
+./Opusly.sh <input_file> <output_directory>
 ```
 - `<input_file>`: Path to the audio file (MP3, AAC, FLAC, etc.) that you want to convert.
 - `<output_directory>`: Path to the directory where the OPUS file will be saved.
 
 Example:
 ```bash
-    ./Opusly.sh song.mp3 /path/to/output
+./Opusly.sh song.mp3 /path/to/output
 ```
 This will convert `song.mp3` to `song.opus` in the specified output directory.
 
