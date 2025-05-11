@@ -1,4 +1,4 @@
-# OPUSLY
+# Opusly
 
 This script allows you to easily convert audio files (MP3, AAC, FLAC) to the OPUS format.
 
